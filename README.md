@@ -1,1 +1,1 @@
-![Capture](https://github.com/n0dzzz/Unity-Zombie-Game/assets/62735552/f03208a9-7874-4c61-b62a-f8ee11210158)
+![Capture](https://github.com/n0dzzz/Unity-Zombie-Game-Demo/assets/62735552/aa5a693e-8f01-4133-988e-944dde2b748b)
